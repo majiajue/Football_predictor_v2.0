@@ -1,0 +1,702 @@
+Name,ID,OVA,ATT,MID,DEF,Transfer Budget(M€),Speed,Dribbling,Passing,Positioning,Crossing,Passing.1,Shooting,Positioning.1,Aggression,Pressure,Team Width,Defender Line,DP,IP,Players,SAA
+Paris Saint-Germain French Ligue 1 (1),73,86,88,84,83,160.0,0,0,0,0,0,0,0,0,0,0,0,0,10,9,33,27.18
+Manchester City English Premier League (1),10,85,84,87,85,176.0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,33,26.09
+Chelsea English Premier League (1),5,84,84,85,82,85.0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,33,28.18
+Liverpool English Premier League (1),9,84,87,84,84,95.0,0,0,0,0,0,0,0,0,0,0,0,0,9,9,33,27.73
+FC Bayern München German 1. Bundesliga (1),21,84,92,85,82,100.0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,32,26.55
+Atlético de Madrid Spain Primera Division (1),240,84,84,83,83,686.0,0,0,0,0,0,0,0,0,0,0,0,0,9,9,33,27.64
+Real Madrid CF Spain Primera Division (1),243,84,84,86,83,150.0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,33,27.73
+Manchester United English Premier League (1),11,83,86,83,81,175.0,0,0,0,0,0,0,0,0,0,0,0,0,9,8,33,26.55
+Inter Italian Serie A (1),44,82,82,82,83,995.0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,25,28.45
+Juventus Italian Serie A (1),45,82,80,81,83,105.0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,27,28.73
+Sevilla FC Spain Primera Division (1),481,82,81,81,82,345.0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,33,28.0
+FC Barcelona Spain Primera Division (1),241,82,82,81,80,130.0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,33,25.09
+Tottenham Hotspur English Premier League (1),18,81,85,79,79,725.0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,33,26.18
+Borussia Dortmund German 1. Bundesliga (1),22,81,83,81,81,60.0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,33,25.82
+AC Milan Italian Serie A (1),47,81,81,79,79,37.0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,29,25.09
+Arsenal English Premier League (1),1,80,83,80,79,775.0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,33,23.82
+Atalanta Italian Serie A (1),39,80,81,79,79,20.0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,26,27.45
+RB Leipzig German 1. Bundesliga (1),112172,80,80,81,78,50.0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,33,25.0
+Napoli Italian Serie A (1),48,80,82,79,80,56.0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,24,28.55
+Leicester City English Premier League (1),95,80,80,81,78,50.0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,33,25.36
+Real Sociedad Spain Primera Division (1),457,80,82,81,78,158.0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,26,26.18
+Villarreal CF Spain Primera Division (1),483,80,83,79,79,329.0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,33,27.09
+Ajax Holland Eredivisie (1),245,80,81,79,80,344.0,0,0,0,0,0,0,0,0,0,0,0,0,10,7,30,25.91
+Aston Villa English Premier League (1),2,79,78,78,79,375.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,33,25.64
+West Ham United English Premier League (1),19,79,80,78,77,35.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,33,27.55
+Bayer 04 Leverkusen German 1. Bundesliga (1),32,79,81,79,76,39.0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,30,24.0
+Lazio Italian Serie A (1),46,79,80,81,78,396.0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,31,28.18
+Roma Italian Serie A (1),52,79,79,79,78,46.0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,33,26.0
+Athletic Club de Bilbao Spain Primera Division (1),448,79,80,79,78,185.0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,31,27.82
+Real Betis Balompié Spain Primera Division (1),449,79,79,79,78,161.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,33,28.82
+SL Benfica Portuguese Liga ZON SAGRES (1),234,79,77,79,79,293.0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,30,27.91
+Sporting CP Portuguese Liga ZON SAGRES (1),237,79,79,80,79,216.0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,27,26.18
+Everton English Premier League (1),7,78,81,78,77,49.0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,33,26.55
+Borussia Mönchengladbach German 1. Bundesliga (1),23,78,79,77,79,25.0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,33,25.64
+Olympique Lyonnais French Ligue 1 (1),66,78,78,77,76,50.0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,33,24.73
+Wolverhampton Wanderers English Premier League (1),110,78,78,82,78,45.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,33,26.91
+VfL Wolfsburg German 1. Bundesliga (1),175,78,77,78,77,40.0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,29,26.82
+Olympique de Marseille French Ligue 1 (1),219,78,79,78,76,14.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,33,24.55
+Granada CF Spain Primera Division (1),110832,78,77,78,77,76.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,33,29.27
+Eintracht Frankfurt German 1. Bundesliga (1),1824,77,76,77,77,25.0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,31,25.18
+Fiorentina Italian Serie A (1),110374,77,79,76,77,25.0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,28,26.73
+TSG Hoffenheim German 1. Bundesliga (1),10029,77,77,77,76,28.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,32,26.18
+LOSC Lille French Ligue 1 (1),65,77,78,77,77,158.0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,29,26.27
+AS Monaco French Ligue 1 (1),69,77,79,78,77,261.0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,30,25.18
+RCD Espanyol de Barcelona Spain Primera Division (1),452,77,78,77,76,6.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,33,27.55
+Valencia CF Spain Primera Division (1),461,77,78,77,78,60.0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,33,26.55
+FC Porto Portuguese Liga ZON SAGRES (1),236,77,76,77,77,20.0,0,0,0,0,0,0,0,0,0,0,0,0,10,7,29,25.45
+PSV Holland Eredivisie (1),247,77,78,77,75,239.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,30,25.36
+Burnley English Premier League (1),1796,76,75,76,76,22.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,30,28.09
+Crystal Palace English Premier League (1),1799,76,77,76,74,30.0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,33,26.91
+Leeds United English Premier League (1),8,76,78,77,76,325.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,32,26.18
+Newcastle United English Premier League (1),13,76,77,75,76,30.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,33,27.73
+Brighton & Hove Albion English Premier League (1),1808,76,77,75,77,28.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,33,25.82
+Southampton English Premier League (1),17,76,76,77,75,325.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,32,25.09
+Flamengo Campeonato Brasileiro Série A (1),1043,76,77,76,75,424.0,0,0,0,0,0,0,0,0,0,0,0,0,10,7,20,26.45
+Olympiacos CFP Greek Super League (1),280,76,77,74,74,19.0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,28,27.91
+Levante Unión Deportiva Spain Primera Division (1),1853,76,79,76,74,93.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,33,27.36
+Getafe CF Spain Primera Division (1),1860,76,75,76,75,83.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,33,26.18
+OGC Nice French Ligue 1 (1),72,76,79,75,76,147.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,28,24.45
+Stade Rennais FC French Ligue 1 (1),74,76,78,76,75,14.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,27,26.0
+River Plate Argentina Primera División (1),1876,76,78,75,75,16.0,0,0,0,0,0,0,0,0,0,0,0,0,10,9,28,26.55
+RC Celta de Vigo Spain Primera Division (1),450,76,80,76,75,118.0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,33,27.27
+CA Osasuna Spain Primera Division (1),479,76,78,76,75,48.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,33,27.0
+Watford English Premier League (1),1795,75,75,76,74,30.0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,33,27.27
+CF Monterrey Mexican Liga MX (1),1032,75,76,76,75,251.0,0,0,0,0,0,0,0,0,0,0,0,0,8,9,30,27.36
+SK Slavia Praha Czech Republic Gambrinus Liga (1),266,75,73,76,74,96.0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,28,24.91
+Clube Atlético Mineiro Campeonato Brasileiro Série A (1),1035,75,74,74,76,19.0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,20,27.55
+Sport-Club Freiburg German 1. Bundesliga (1),25,75,73,74,75,105.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,26,25.27
+U.C. Sampdoria Italian Serie A (1),1837,75,76,74,73,12.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,28,28.82
+Torino F.C. Italian Serie A (1),54,75,75,73,75,155.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,30,24.55
+Racing Club de Lens French Ligue 1 (1),64,75,74,76,75,86.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,26.09
+Montpellier Hérault SC French Ligue 1 (1),70,75,72,77,73,76.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,27,25.55
+Fenerbahçe SK Turkish Süper Lig (1),326,75,75,74,75,14.0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,29,26.27
+RC Strasbourg Alsace French Ligue 1 (1),76,75,77,74,74,73.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,23,26.82
+Boca Juniors Argentina Primera División (1),1877,75,73,71,75,15.0,0,0,0,0,0,0,0,0,0,0,0,0,10,9,28,26.64
+U.S. Sassuolo Calcio Italian Serie A (1),111974,75,76,75,72,135.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,28,25.18
+SC Braga Portuguese Liga ZON SAGRES (1),1896,75,75,73,75,14.0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,30,25.18
+Palmeiras Campeonato Brasileiro Série A (1),383,75,78,76,74,205.0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,20,28.27
+Hertha BSC German 1. Bundesliga (1),166,75,75,75,74,60.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,33,28.09
+Tigres U.A.N.L. Mexican Liga MX (1),1970,75,77,75,73,222.0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,26,29.82
+Trabzonspor Turkish Süper Lig (1),436,75,77,75,72,127.0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,28,28.27
+Hellas Verona Italian Serie A (1),206,75,75,75,75,8.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,25,27.09
+Deportivo Alavés Spain Primera Division (1),463,75,75,73,76,44.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,32,28.0
+Elche CF Spain Primera Division (1),468,75,75,75,72,17.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,30,28.82
+Club Brugge KV Belgian Jupiler Pro League (1),231,75,74,77,74,259.0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,28,25.91
+Feyenoord Holland Eredivisie (1),246,75,74,75,76,143.0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,25,24.55
+Norwich City English Premier League (1),1792,74,76,74,74,20.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,33,25.64
+AC Sparta Praha Czech Republic Gambrinus Liga (1),267,74,72,75,73,72.0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,28,24.27
+Internacional Campeonato Brasileiro Série A (1),1048,74,71,74,75,77.0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,20,26.45
+1. FC Köln German 1. Bundesliga (1),31,74,75,75,73,125.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,27,26.55
+VfB Stuttgart German 1. Bundesliga (1),36,74,73,74,74,20.0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,33,23.45
+1. FC Union Berlin German 1. Bundesliga (1),1831,74,76,73,73,65.0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,29,28.82
+Cagliari Italian Serie A (1),1842,74,76,72,69,10.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,29,25.55
+Udinese Calcio Italian Serie A (1),55,74,75,73,74,8.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,23,25.82
+FC Augsburg German 1. Bundesliga (1),100409,74,72,75,74,95.0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,33,25.09
+Beşiktaş JK Turkish Süper Lig (1),327,74,74,74,73,155.0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,28,27.27
+Rangers FC Scottish Premiership (1),86,74,74,74,73,83.0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,28,26.55
+Club América Mexican Liga MX (1),1879,74,77,73,72,232.0,0,0,0,0,0,0,0,0,0,0,0,0,10,9,24,26.55
+RB Bragantino Campeonato Brasileiro Série A (1),112472,74,74,74,75,54.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20,26.09
+Brentford English Premier League (1),1925,74,75,74,74,18.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,33,24.73
+Fulham English League Championship (2),144,74,77,73,73,158.0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,30,25.45
+Spartak Moskva Russian Premier League (1),100767,74,74,73,74,20.0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,28,25.27
+1. FSV Mainz 05 German 1. Bundesliga (1),169,74,75,74,75,92.0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,32,25.36
+Cádiz CF Spain Primera Division (1),1968,74,75,74,73,2.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,31,28.27
+Dynamo Kyiv Ukrainian Premier League (1),101047,74,68,75,72,128.0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,28,24.64
+Bologna Italian Serie A (1),189,74,78,74,73,15.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,29,26.73
+Shakhtar Donetsk Ukrainian Premier League (1),101059,74,72,75,75,168.0,0,0,0,0,0,0,0,0,0,0,0,0,10,7,27,25.55
+RCD Mallorca Spain Primera Division (1),453,74,75,74,74,28.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,30,27.45
+Real Valladolid CF Spanish Segunda División (2),462,74,75,75,74,31.0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,30,28.09
+Rayo Vallecano Spain Primera Division (1),480,74,78,74,73,33.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,29,27.73
+Sheffield United English League Championship (2),1794,73,70,73,73,133.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,30,27.45
+Club Athletico Paranaense Campeonato Brasileiro Série A (1),1039,73,74,72,74,62.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,20,26.82
+Sport Club Corinthians Paulista Campeonato Brasileiro Série A (1),1041,73,72,73,74,169.0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,20,26.09
+AEK Athens Greek Super League (1),278,73,74,73,70,124.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,28,27.0
+AS Saint-Étienne French Ligue 1 (1),1819,73,75,73,72,121.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,33,25.73
+Santos Campeonato Brasileiro Série A (1),1053,73,74,72,72,65.0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,20,27.91
+FC Girondins de Bordeaux French Ligue 1 (1),59,73,75,73,72,92.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,31,25.0
+PFC CSKA Moscow Russian Premier League (1),315,73,72,72,74,102.0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,23,25.27
+FC Metz French Ligue 1 (1),68,73,73,72,73,72.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,33,26.73
+Galatasaray SK Turkish Süper Lig (1),325,73,74,72,74,162.0,0,0,0,0,0,0,0,0,0,0,0,0,10,7,30,24.64
+Unión Deportiva Almería Spanish Segunda División (2),1861,73,74,72,72,108.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,29,25.0
+Club Atlético Colón Argentina Primera División (1),110406,73,72,74,72,4.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,27,28.36
+FC Nantes French Ligue 1 (1),71,73,73,74,72,74.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,29,25.27
+Celtic Scottish Premiership (1),78,73,72,73,72,146.0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,28,25.55
+São Paulo Campeonato Brasileiro Série A (1),598,73,73,73,72,112.0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,20,28.64
+Al Hilal Saudi Abdul L. Jameel League (1),605,73,78,74,72,236.0,0,0,0,0,0,0,0,0,0,0,0,0,10,7,30,29.91
+Grêmio Campeonato Brasileiro Série A (1),1629,73,72,72,74,7.0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,20,27.55
+Stade Brestois 29 French Ligue 1 (1),378,73,72,74,73,63.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,24.64
+Stade de Reims French Ligue 1 (1),379,73,70,72,75,88.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,23.91
+FC Viktoria Plzeň Czech Republic Gambrinus Liga (1),110468,73,73,73,73,78.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,27,27.0
+PAOK Greek Super League (1),393,73,73,74,70,168.0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,28,26.18
+AFC Bournemouth English League Championship (2),1943,73,72,74,72,118.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,30,24.55
+FC Lokomotiv Moscow Russian Premier League (1),100765,73,75,72,74,125.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,28,26.18
+KRC Genk Belgian Jupiler Pro League (1),673,73,76,73,73,174.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,26,24.09
+Club León Mexican Liga MX (1),110781,73,70,74,72,41.0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,22,28.0
+FC Red Bull Salzburg Austrian Football Bundesliga (1),191,73,72,72,73,207.0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,28,22.55
+SD Eibar Spanish Segunda División (2),467,73,72,72,72,65.0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,29,28.55
+Genoa Italian Serie A (1),110556,73,74,72,72,85.0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,33,26.45
+Racing Club Argentina Primera División (1),101085,73,72,73,73,94.0,0,0,0,0,0,0,0,0,0,0,0,0,9,8,28,29.18
+Royal Antwerp FC Belgian Jupiler Pro League (1),230,73,73,73,72,208.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,28,26.91
+Angers SCO French Ligue 1 (1),1530,73,73,73,75,63.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,27,27.27
+Club Atlético Independiente Argentina Primera División (1),110093,72,75,72,71,13.0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,27,25.64
+Fatih Karagümrük S.K. Turkish Süper Lig (1),111117,72,71,72,69,52.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,30,29.64
+SV Werder Bremen German 2. Bundesliga (2),38,72,72,70,72,10.0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,28,26.64
+ESTAC Troyes French Ligue 1 (1),294,72,71,73,71,59.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,33,28.64
+Fluminense Campeonato Brasileiro Série A (1),567,72,74,72,72,41.0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,20,26.82
+Cruz Azul Mexican Liga MX (1),1878,72,70,72,73,204.0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,24,28.91
+Vitória de Guimarães Portuguese Liga ZON SAGRES (1),1887,72,74,71,71,59.0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,30,25.55
+West Bromwich Albion English League Championship (2),109,72,72,72,71,137.0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,30,26.18
+AZ Alkmaar Holland Eredivisie (1),1906,72,72,73,73,99.0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,30,24.27
+BSC Young Boys Swiss Super League (1),900,72,74,73,70,86.0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,28,26.18
+İstanbul Başakşehir FK Turkish Süper Lig (1),101014,72,76,72,72,99.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,25,28.18
+DSC Arminia Bielefeld German 1. Bundesliga (1),159,72,72,72,72,23.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,26,25.73
+VfL Bochum 1848 German 1. Bundesliga (1),160,72,70,71,72,33.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,31,27.18
+KAA Gent Belgian Jupiler Pro League (1),674,72,71,72,71,158.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,28,27.82
+Fortaleza Campeonato Brasileiro Série A (1),111052,72,74,71,72,16.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,20,23.55
+Venezia FC Italian Serie A (1),205,72,71,72,71,4.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,33,25.27
+Dinamo Zagreb Croatian Prva HNL (1),211,72,75,72,72,116.0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,28,26.36
+Ceará Sporting Club Campeonato Brasileiro Série A (1),111059,72,71,72,73,18.0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,20,27.91
+Vélez Sarsfield Argentina Primera División (1),101088,72,73,65,73,8.0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,28,26.18
+RSC Anderlecht Belgian Jupiler Pro League (1),229,72,72,73,72,143.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,28,25.0
+Aytemiz Alanyaspor Turkish Süper Lig (1),113142,72,69,71,72,57.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,27,28.45
+Atlético Clube Goianiense Campeonato Brasileiro Série A (1),112119,72,71,71,73,0.81,0,0,0,0,0,0,0,0,0,0,0,0,2,2,20,26.45
+Blackburn Rovers English League Championship (2),3,71,70,72,70,92.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,23.18
+Al Nassr Saudi Abdul L. Jameel League (1),112139,71,79,70,67,24.0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,26,27.18
+Nottingham Forest English League Championship (2),14,71,71,69,71,146.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,30,25.27
+Queens Park Rangers English League Championship (2),15,71,71,70,70,51.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,30,26.55
+Clermont Foot 63 French Ligue 1 (1),1815,71,72,71,73,45.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,27.27
+Hamburger SV German 2. Bundesliga (2),28,71,69,71,71,18.0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,30,24.45
+FC Schalke 04 German 2. Bundesliga (2),34,71,73,71,71,20.0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,30,26.91
+Parma Italian Serie B (2),50,71,71,69,71,8.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,28,28.55
+F.C. København Danish Superliga (1),819,71,71,69,69,103.0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,28,24.09
+Club Atlético Lanús Argentina Primera División (1),110395,71,73,71,70,75.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,28,26.73
+Málaga CF Spanish Segunda División (2),573,71,71,71,70,99.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,30,26.64
+Bahia Campeonato Brasileiro Série A (1),1598,71,71,70,71,36.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,20,24.27
+Club Tijuana Mexican Liga MX (1),111678,71,71,71,68,72.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,24,26.09
+Santos Laguna Mexican Liga MX (1),110144,71,68,72,70,86.0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,27,25.09
+Pachuca Mexican Liga MX (1),110147,71,72,71,70,49.0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,28,27.45
+Cuiabá Campeonato Brasileiro Série A (1),115530,71,71,71,71,21.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20,25.36
+Ferencvárosi TC Hungarian Nemzeti Bajnokság I (1),1874,71,70,71,70,68.0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,28,26.0
+Club Deportivo Guadalajara Mexican Liga MX (1),1880,71,67,69,71,197.0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,24,25.82
+Deportivo Toluca Mexican Liga MX (1),1882,71,73,70,68,75.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,28,25.64
+Panathinaikos FC Greek Super League (1),1884,71,72,71,69,53.0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,28,27.27
+Defensa y Justicia Argentina Primera División (1),111710,71,68,71,71,49.0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,28,26.45
+FC Basel 1893 Swiss Super League (1),896,71,72,72,71,84.0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,28,25.55
+Spezia Italian Serie A (1),110741,71,71,69,70,28.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,24.09
+Adana Demirspor Turkish Süper Lig (1),101016,71,73,70,72,45.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,29,26.73
+SpVgg Greuther Fürth German 1. Bundesliga (1),165,71,71,69,71,19.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,30,26.27
+Columbus Crew USA Major League Soccer (1),687,71,73,71,70,184.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,26,28.45
+Empoli Italian Serie A (1),1746,71,73,71,71,45.0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,26,24.09
+FC Lorient French Ligue 1 (1),217,71,73,72,70,7.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,31,25.55
+Estudiantes de La Plata Argentina Primera División (1),101083,71,72,72,71,79.0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,26,27.27
+Standard de Liège Belgian Jupiler Pro League (1),232,71,71,71,69,127.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,28,24.64
+Girona FC Spanish Segunda División (2),110062,71,75,71,70,43.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,30,26.27
+Rosario Central Argentina Primera División (1),110580,71,73,71,70,5.0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,28,28.27
+San Lorenzo de Almagro Argentina Primera División (1),1013,71,72,71,70,9.0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,28,28.0
+SD Huesca Spanish Segunda División (2),110839,71,68,71,70,21.0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,30,28.0
+Club Atlas Mexican Liga MX (1),101114,71,72,69,71,65.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,25,26.82
+Reading English League Championship (2),1793,70,70,70,71,59.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,30,27.27
+CD Tenerife Spanish Segunda División (2),260,70,71,70,69,2.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,30,28.91
+Philadelphia Union USA Major League Soccer (1),112134,70,68,71,70,213.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,29,26.82
+Hajduk Split Croatian Prva HNL (1),263,70,72,69,69,83.0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,27,25.45
+Coventry City English League Championship (2),1800,70,70,71,69,46.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,30,25.73
+Preston North End English League Championship (2),1801,70,69,71,70,47.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,25.18
+Middlesbrough English League Championship (2),12,70,71,70,70,77.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,25.45
+Stoke City English League Championship (2),1806,70,68,71,70,58.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,28.82
+CD Leganés Spanish Segunda División (2),100888,70,71,70,70,42.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,30,28.18
+Club Atlético Talleres Argentina Primera División (1),112670,70,70,69,71,52.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,28,24.82
+Portland Timbers USA Major League Soccer (1),111140,70,71,72,70,316.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,26,29.27
+Club Atlético de San Luis Mexican Liga MX (1),112678,70,71,68,69,52.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,30,27.36
+Seattle Sounders FC USA Major League Soccer (1),111144,70,77,69,69,325.0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,21,27.36
+Fortuna Düsseldorf German 2. Bundesliga (2),110636,70,71,70,69,75.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,30,26.0
+Portimonense SC Portuguese Liga ZON SAGRES (1),10031,70,68,72,70,33.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,29,26.0
+Malmö FF Swedish Allsvenskan (1),320,70,67,71,69,81.0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,28,28.27
+Gallos Blancos de Querétaro Mexican Liga MX (1),110150,70,72,69,66,16.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,29,27.09
+Kaizer Chiefs South African Premier Division (1),110929,70,70,66,67,22.0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,28,28.91
+Birmingham City English League Championship (2),88,70,71,67,70,71.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,30,28.27
+Al Ittihad Saudi Abdul L. Jameel League (1),607,70,76,70,67,15.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,29,28.18
+Millwall English League Championship (2),97,70,69,68,70,43.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,29,26.91
+FC Paços de Ferreira Portuguese Liga ZON SAGRES (1),1892,70,69,72,70,33.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,26,26.73
+Clube Sport Marítimo Portuguese Liga ZON SAGRES (1),1893,70,70,69,69,39.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,27.27
+Boavista FC Portuguese Liga ZON SAGRES (1),1898,70,70,69,70,42.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,27,26.64
+FC Utrecht Holland Eredivisie (1),1903,70,69,71,70,138.0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,30,24.45
+Kawasaki Frontale Japanese J. League Division 1 (1),111730,70,71,69,71,93.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,26,28.91
+Vitesse Holland Eredivisie (1),1909,70,69,69,73,164.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,28,23.73
+Universidad Católica Chilian Campeonato Nacional (1),110975,70,67,70,70,85.0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,26,27.73
+Yukatel Kayserispor Turkish Süper Lig (1),101020,70,72,70,68,18.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,27,28.55
+Santa Clara Portuguese Liga ZON SAGRES (1),1438,70,67,69,70,23.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,27,26.55
+Club Libertad Paraguayan Primera División (1),111008,70,69,69,72,31.0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,20,27.82
+Göztepe SK Turkish Süper Lig (1),101026,70,71,71,69,45.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,27.27
+Swansea City English League Championship (2),1960,70,71,70,70,102.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,30,25.55
+Futebol Clube de Famalicão Portuguese Liga ZON SAGRES (1),112809,70,72,71,69,44.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,30,23.64
+Argentinos Juniors Argentina Primera División (1),111019,70,72,70,70,28.0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,28,26.36
+Çaykur Rizespor Turkish Süper Lig (1),101037,70,71,69,69,4.0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,26,28.45
+Demir Grup Sivasspor Turkish Süper Lig (1),101041,70,71,72,69,58.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,24,30.82
+New England Revolution USA Major League Soccer (1),691,70,75,70,68,216.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,24,27.0
+Gazişehir Gaziantep F.K. Turkish Süper Lig (1),110776,70,68,69,70,35.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,29,27.55
+Juventude Campeonato Brasileiro Série A (1),111041,70,70,70,70,24.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,20,27.18
+AC Monza Italian Serie B (2),111811,70,69,69,70,67.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,28,26.73
+Jeonbuk Hyundai Motors Korean K League 1 (1),1477,70,72,70,69,86.0,0,0,0,0,0,0,0,0,0,0,0,0,10,7,28,28.0
+Real Sporting de Gijón Spanish Segunda División (2),459,70,71,70,69,48.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,30,24.27
+Unión Deportiva Las Palmas Spanish Segunda División (2),472,70,71,71,70,66.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,30,26.45
+Antalyaspor Turkish Süper Lig (1),741,70,69,72,68,53.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,26,28.0
+Kasimpaşa SK Turkish Süper Lig (1),111339,70,70,69,70,4.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,26,27.64
+FC Cartagena Spanish Segunda División (2),100851,70,70,70,70,18.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,30,29.55
+Real Zaragoza Spanish Segunda División (2),244,70,69,69,70,27.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,30,27.45
+Club Olimpia Paraguayan Primera División (1),101108,70,70,70,69,6.0,0,0,0,0,0,0,0,0,0,0,0,0,10,8,25,28.27
+Atlanta United USA Major League Soccer (1),112885,70,77,70,67,383.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,30,24.18
+SK Rapid Wien Austrian Football Bundesliga (1),254,70,70,69,70,52.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,28,25.0
+Club Necaxa Mexican Liga MX (1),101121,69,69,66,68,83.0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,30,25.73
+Amiens SC French Ligue 2 (2),1816,69,66,69,66,39.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,30,25.45
+Vissel Kobe Japanese J. League Division 1 (1),101146,69,70,70,69,168.0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,30,29.55
+Yokohama F. Marinos Japanese J. League Division 1 (1),101151,69,69,69,69,103.0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,25,25.91
+Estoril Praia Portuguese Liga ZON SAGRES (1),10020,69,68,70,70,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,26,24.55
+US Salernitana 1919 Italian Serie A (1),110373,69,73,68,68,4.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,28.0
+Karlsruher SC German 2. Bundesliga (2),1832,69,69,69,68,0.8,0,0,0,0,0,0,0,0,0,0,0,0,3,1,30,27.91
+SC Paderborn 07 German 2. Bundesliga (2),10030,69,70,69,69,5.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,26.64
+AJ Auxerre French Ligue 2 (2),57,69,73,69,69,42.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,28,27.73
+Al Shabab Saudi Abdul L. Jameel League (1),111674,69,72,69,66,107.0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,29,27.0
+Holstein Kiel German 2. Bundesliga (2),576,69,70,69,68,17.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,30,27.55
+Club Atlético Banfield Argentina Primera División (1),110404,69,69,71,67,41.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,28,27.64
+Orlando Pirates South African Premier Division (1),110930,69,69,68,67,26.0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,28,29.55
+Club Universidad Nacional Mexican Liga MX (1),1881,69,69,68,70,85.0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,27,28.55
+Derby County English League Championship (2),91,69,65,69,69,56.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,30,26.0
+Lecce Italian Serie B (2),347,69,69,67,68,6.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,27,27.0
+Gil Vicente FC Portuguese Liga ZON SAGRES (1),1888,69,71,69,69,29.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,26,25.36
+Belenenses SAD Portuguese Liga ZON SAGRES (1),1889,69,69,69,68,22.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,25.09
+Unión de Santa Fe Argentina Primera División (1),111716,69,70,68,69,4.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,28,24.64
+Los Angeles FC USA Major League Soccer (1),112996,69,74,69,68,368.0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,26,24.09
+Lech Poznań Polish T-Mobile Ekstraklasa (1),873,69,69,70,69,39.0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,24,26.64
+Yeni Malatyaspor Turkish Süper Lig (1),113259,69,71,70,68,4.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,27,27.27
+Moreirense FC Portuguese Liga ZON SAGRES (1),1900,69,69,71,69,33.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,26,27.27
+FC Twente Holland Eredivisie (1),1908,69,69,69,68,88.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,27,25.91
+Fortuna Sittard Holland Eredivisie (1),634,69,71,68,69,62.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,29,26.45
+Bristol City English League Championship (2),1919,69,69,68,70,78.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,30,24.0
+1. FC Heidenheim 1846 German 2. Bundesliga (2),111235,69,69,68,71,2.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,26,26.55
+CD Tondela Portuguese Liga ZON SAGRES (1),112516,69,68,68,70,21.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,26,25.91
+Barcelona Sporting Club Ecuadorian Serie A (1),110981,69,72,69,68,49.0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,23,27.18
+Huddersfield Town English League Championship (2),1939,69,68,71,70,51.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,30,25.45
+Benevento Italian Serie B (2),112026,69,70,68,69,56.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,27,27.73
+SV Zulte Waregem Belgian Jupiler Pro League (1),15005,69,69,69,68,6.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,28,27.0
+Royal Charleroi S.C. Belgian Jupiler Pro League (1),670,69,68,72,68,65.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,28,23.18
+Atakaş Hatayspor Turkish Süper Lig (1),101028,69,70,69,68,33.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,23,27.64
+SV Darmstadt 98 German 2. Bundesliga (2),110502,69,69,69,69,33.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,30,25.36
+Cardiff City English League Championship (2),1961,69,68,70,68,88.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,30,25.82
+İttifak Holding Konyaspor Turkish Süper Lig (1),101033,69,70,67,71,48.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,22,27.64
+KV Oostende Belgian Jupiler Pro League (1),682,69,68,69,67,39.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,26,23.36
+1. FC Nürnberg German 2. Bundesliga (2),171,69,68,69,70,54.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,29,26.64
+D.C. United USA Major League Soccer (1),688,69,71,69,68,275.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,23,26.27
+FC Vizela Portuguese Liga ZON SAGRES (1),111539,69,70,70,68,16.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,26.27
+Sporting Kansas City USA Major League Soccer (1),696,69,71,69,65,272.0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,25,28.82
+New York City FC USA Major League Soccer (1),112828,69,72,68,70,313.0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,22,26.91
+Ulsan Hyundai FC Korean K League 1 (1),1473,69,69,67,68,91.0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,28,27.18
+SK Sturm Graz Austrian Football Bundesliga (1),209,69,70,69,67,52.0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,28,24.55
+Mazatlán Futbol Club Mexican Liga MX (1),114899,69,70,67,67,16.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,27.09
+Gimnasia y Esgrima La Plata Argentina Primera División (1),101084,69,69,68,69,44.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,25.09
+Royale Union Saint-Gilloise Belgian Jupiler Pro League (1),2014,69,72,71,68,2.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,25,25.64
+Nîmes Olympique French Ligue 2 (2),224,69,69,72,68,52.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,25,24.27
+Hannover 96 German 2. Bundesliga (2),485,69,67,69,69,10.0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,30,26.45
+SD Ponferradina Spanish Segunda División (2),2023,69,71,69,69,2.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,26,28.36
+Dijon FCO French Ligue 2 (2),110569,69,71,67,69,39.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,26.64
+Real Oviedo Spanish Segunda División (2),110827,69,70,69,69,2.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,25.09
+FC Midtjylland Danish Superliga (1),1516,69,68,69,71,96.0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,26,24.36
+Junior FC Colombian Liga Postobón (1),101101,69,69,69,69,5.0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,21,29.18
+Fútbol Club Juárez Mexican Liga MX (1),113134,69,70,67,68,2.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,28,28.36
+Nashville SC USA Major League Soccer (1),114162,69,70,70,67,184.0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,25,27.91
+Club Atlético Peñarol Uruguayan Primera División (1),101110,69,68,69,64,49.0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,25,25.55
+Oud-Heverlee Leuven Belgian Jupiler Pro League (1),100087,69,70,69,67,61.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,25.91
+FC St. Pauli German 2. Bundesliga (2),110329,69,71,69,69,29.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,30,25.09
+LASK Linz Austrian Football Bundesliga (1),252,69,68,69,67,69.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,28,25.27
+Al Ahli Saudi Abdul L. Jameel League (1),112387,68,76,67,67,146.0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,30,26.18
+Aarhus GF Danish Superliga (1),271,68,69,67,67,3.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,25,24.45
+Toulouse Football Club French Ligue 2 (2),1809,68,67,69,68,67.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,26,25.18
+Kashima Antlers Japanese J. League Division 1 (1),101147,68,70,69,64,89.0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,30,25.64
+Cerezo Osaka Japanese J. League Division 1 (1),101148,68,66,69,67,69.0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,30,28.18
+FC Tokyo Japanese J. League Division 1 (1),101150,68,69,68,68,10.0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,30,28.27
+SSV Jahn Regensburg German 2. Bundesliga (2),543,68,68,67,68,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,26,25.64
+Minnesota United FC USA Major League Soccer (1),111138,68,67,68,70,254.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,24,27.82
+Club de Foot Montréal USA Major League Soccer (1),111139,68,69,68,67,191.0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,30,24.55
+Toronto FC USA Major League Soccer (1),111651,68,69,68,68,319.0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,21,28.09
+Sparta Rotterdam Holland Eredivisie (1),100646,68,67,69,67,6.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,26.91
+APOEL Nicosia FC Cypriot First Division (1),100135,68,72,68,66,77.0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,28,27.36
+Rosenborg BK Norwegian Eliteserien (1),298,68,67,71,65,83.0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,23,25.91
+Aalborg BK Danish Superliga (1),820,68,67,68,67,27.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,24,25.55
+Newell's Old Boys Argentina Primera División (1),110396,68,64,68,71,4.0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,27,26.55
+UD Ibiza Spanish Segunda División (2),113981,68,68,68,67,15.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,30,28.27
+Servette FC Swiss Super League (1),324,68,68,68,68,38.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,26,27.0
+Puebla FC Mexican Liga MX (1),110152,68,64,69,67,37.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,25,26.36
+Legia Warszawa Polish T-Mobile Ekstraklasa (1),1871,68,69,68,67,52.0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,28,28.45
+Heart of Midlothian Scottish Premiership (1),80,68,68,68,67,23.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,21,27.64
+Godoy Cruz Argentina Primera División (1),111706,68,69,69,68,35.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,24.45
+Club Atlético Aldosivi Argentina Primera División (1),111707,68,70,68,65,25.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,24,27.09
+Atlético Tucumán Argentina Primera División (1),111708,68,69,69,67,29.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,28,25.64
+Associação Chapecoense de Futebol Campeonato Brasileiro Série A (1),112476,68,70,68,69,33.0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,20,27.18
+SV Sandhausen German 2. Bundesliga (2),110178,68,69,67,68,15.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,30,28.36
+Club Deportes Tolima Colombian Liga Postobón (1),111722,68,68,69,65,3.0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,24,26.55
+Shandong Taishan Chinese Super League (1),111724,68,59,70,67,8.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,28,28.45
+FC Zürich Swiss Super League (1),894,68,66,69,65,4.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,28,26.91
+FC Arouca Portuguese Liga ZON SAGRES (1),112513,68,69,69,68,18.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,29,26.55
+Luton Town English League Championship (2),1923,68,69,69,69,3.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,30,26.09
+KV Mechelen Belgian Jupiler Pro League (1),110724,68,68,69,68,48.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,27,25.27
+Barnsley English League Championship (2),1932,68,68,64,69,58.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,30,23.18
+Altay SK Turkish Süper Lig (1),101006,68,69,68,66,34.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,25,27.45
+FCSB (Steaua) Romanian Liga I (1),100761,68,68,68,69,54.0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,28,26.36
+Shanghai Port FC Chinese Super League (1),112540,68,68,70,66,156.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,28,29.27
+K Beerschot VA Belgian Jupiler Pro League (1),675,68,68,68,67,53.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,28,26.0
+Sint-Truidense VV Belgian Jupiler Pro League (1),680,68,64,68,68,48.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,27,26.45
+Colorado Rapids USA Major League Soccer (1),694,68,70,70,68,176.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,26.36
+Houston Dynamo USA Major League Soccer (1),698,68,65,69,66,239.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,27,27.0
+Stade Malherbe Caen French Ligue 2 (2),210,68,69,67,66,33.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,30,26.36
+KSV Cercle Brugge Belgian Jupiler Pro League (1),1750,68,71,68,66,54.0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,28,22.91
+Urawa Red Diamonds Japanese J. League Division 1 (1),111575,68,70,67,69,102.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,25,27.09
+Nagoya Grampus Japanese J. League Division 1 (1),112092,68,68,68,67,83.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,29,29.18
+Orlando City Soccer Club USA Major League Soccer (1),112606,68,68,68,68,25.0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,22,27.45
+CFR Cluj Romanian Liga I (1),110816,68,68,68,69,33.0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,28,27.73
+KV Kortrijk Belgian Jupiler Pro League (1),100081,68,68,68,70,45.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,27,25.36
+Austin FC USA Major League Soccer (1),114161,68,68,70,64,158.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,23,25.82
+Vancouver Whitecaps FC USA Major League Soccer (1),101112,68,69,68,67,195.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,28,26.09
+GZT Giresunspor Turkish Süper Lig (1),112120,68,69,68,68,24.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,24,26.09
+Inter Miami CF USA Major League Soccer (1),112893,68,79,68,67,30.0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,22,27.73
+Sanfrecce Hiroshima Japanese J. League Division 1 (1),113157,67,68,67,68,8.0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,28,27.18
+Al Raed Saudi Abdul L. Jameel League (1),112392,67,69,67,64,27.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,30,28.82
+Al Taawoun Saudi Abdul L. Jameel League (1),112393,67,73,68,66,43.0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,29,27.91
+Brøndby IF Danish Superliga (1),269,67,69,68,67,56.0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,28,24.55
+Grenoble Foot 38 French Ligue 2 (2),1805,67,68,66,67,33.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,28,28.27
+Sheffield Wednesday English League One (3),1807,67,67,68,68,5.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,28,27.73
+Go Ahead Eagles Holland Eredivisie (1),100632,67,64,68,65,38.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,30,23.45
+Heracles Almelo Holland Eredivisie (1),100634,67,67,67,66,44.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,23.64
+F.C. Hansa Rostock German 2. Bundesliga (2),27,67,67,68,67,0.65,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,28.18
+Shimizu S-Pulse Japanese J. League Division 1 (1),101149,67,67,67,66,42.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,30,26.09
+Sydney FC Australian Hyundai A-League (1),111400,67,66,64,66,2.0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,28,28.36
+FC Lugano Swiss Super League (1),10032,67,65,67,66,26.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,25,28.91
+Platense Argentina Primera División (1),112689,67,70,68,66,22.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,23,29.91
+Universitatea Craiova Romanian Liga I (1),308,67,67,68,67,29.0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,27,26.91
+San Jose Earthquakes USA Major League Soccer (1),111928,67,68,70,66,236.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,24,24.91
+Grasshopper Club Zürich Swiss Super League (1),322,67,65,68,66,52.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,24,25.36
+Club Atlético Central Córdoba Argentina Primera División (1),112965,67,66,67,66,27.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,23,28.0
+Club Atlético Sarmiento Argentina Primera División (1),112713,67,70,66,66,17.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,26.45
+Club Cerro Porteño Paraguayan Primera División (1),112716,67,66,67,66,36.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,24,25.0
+Aberdeen Scottish Premiership (1),77,67,70,67,66,23.0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,27,28.55
+Hibernian Scottish Premiership (1),81,67,69,65,67,3.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,28,25.0
+Al Ain FC UAE Arabian Gulf League (1),111701,67,75,69,64,139.0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,28,25.55
+Ipswich Town English League One (3),94,67,66,67,65,28.0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,28,26.18
+Burgos CF Spanish Segunda División (2),10846,67,67,67,66,15.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,27,27.82
+Club Atlético Huracán Argentina Primera División (1),111711,67,67,67,67,48.0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,28,25.27
+AC Ajaccio French Ligue 2 (2),614,67,67,67,68,26.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,23,26.73
+Willem II Holland Eredivisie (1),1907,67,67,68,65,5.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,23.73
+N.E.C. Nijmegen Holland Eredivisie (1),1910,67,67,68,66,48.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,26,23.09
+Valenciennes FC French Ligue 2 (2),110456,67,70,66,68,27.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,28,27.09
+SC Heerenveen Holland Eredivisie (1),1913,67,72,66,67,64.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,30,25.27
+FC Groningen Holland Eredivisie (1),1915,67,69,67,68,79.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,28,23.82
+Wigan Athletic English League One (3),1917,67,67,67,66,24.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,26.82
+FC Luzern Swiss Super League (1),897,67,68,66,66,36.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,26,25.91
+Blackpool English League Championship (2),1926,67,66,67,67,21.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,30,26.36
+FC Ingolstadt 04 German 2. Bundesliga (2),111239,67,66,67,66,4.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,30,26.91
+LDU Quito Ecuadorian Serie A (1),110986,67,64,69,66,22.0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,23,25.45
+Peterborough United English League Championship (2),1938,67,69,67,67,27.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,30,24.73
+FK Bodø/Glimt Norwegian Eliteserien (1),918,67,67,67,67,28.0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,28,24.91
+Raków Częstochowa Polish T-Mobile Ekstraklasa (1),114326,67,67,66,66,22.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,28,25.64
+Pogoń Szczecin Polish T-Mobile Ekstraklasa (1),110746,67,66,67,68,28.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,27,26.64
+Shenzhen FC Chinese Super League (1),111773,67,72,67,61,51.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,28,28.82
+Hull City English League Championship (2),1952,67,67,68,67,39.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,30,23.36
+Molde FK Norwegian Eliteserien (1),417,67,66,66,68,54.0,0,0,0,0,0,0,0,0,0,0,0,0,10,3,26,25.09
+Club Sporting Cristal Peruvian Primera División (1),111013,67,64,68,68,34.0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,23,26.55
+Club Universitario de Deportes Peruvian Primera División (1),111014,67,66,68,66,35.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,23,28.73
+AIK Swedish Allsvenskan (1),433,67,66,66,68,44.0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,25,27.64
+FC Sion Swiss Super League (1),110770,67,65,68,64,59.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,28,26.55
+FC Dallas USA Major League Soccer (1),695,67,71,67,68,182.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,23,25.36
+LA Galaxy USA Major League Soccer (1),697,67,74,67,67,371.0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,24,26.18
+Jeju United FC Korean K League 1 (1),1478,67,66,70,65,36.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,28,28.73
+Paris FC French Ligue 2 (2),111817,67,66,68,65,56.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,30,27.09
+Le Havre AC French Ligue 2 (2),1738,67,67,67,66,52.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,28,24.09
+RZ Pellets Wolfsberger AC Austrian Football Bundesliga (1),111822,67,67,68,66,44.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,26,25.36
+Suwon Samsung Bluewings Korean K League 1 (1),983,67,66,68,68,3.0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,28,27.09
+Real Salt Lake USA Major League Soccer (1),111065,67,70,66,66,209.0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,23,27.0
+KAS Eupen Belgian Jupiler Pro League (1),2013,67,68,67,68,36.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,27,26.36
+Club Nacional de Football Uruguayan Primera División (1),111325,67,66,65,66,54.0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,20,23.64
+Gamba Osaka Japanese J. League Division 1 (1),112093,67,69,67,68,87.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,30,29.36
+AD Alcorcón Spanish Segunda División (2),100831,67,68,66,66,16.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,29,31.0
+Club Deportivo Palestino Chilian Campeonato Nacional (1),111328,67,67,68,67,24.0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,21,31.73
+CD Lugo Spanish Segunda División (2),110831,67,67,67,65,16.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,27,25.0
+CF Fuenlabrada Spanish Segunda División (2),110065,67,67,66,66,15.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,30,25.27
+Patronato Argentina Primera División (1),110581,67,69,66,66,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,22,29.27
+SG Dynamo Dresden German 2. Bundesliga (2),503,67,68,67,67,2.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,29,24.73
+FC Erzgebirge Aue German 2. Bundesliga (2),506,67,65,66,66,16.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,30,26.0
+Randers FC Danish Superliga (1),1786,67,67,66,66,2.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,26,25.64
+FC Cincinnati USA Major League Soccer (1),113149,67,68,67,67,22.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,27,26.82
+FK Austria Wien Austrian Football Bundesliga (1),256,66,64,65,67,77.0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,28,24.09
+Guaireña FC Paraguayan Primera División (1),114688,66,66,65,65,23.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20,30.64
+Rotherham United English League One (3),1797,66,67,67,66,18.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,25,26.27
+Al Faisaly Saudi Abdul L. Jameel League (1),112389,66,67,68,66,22.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,30,29.45
+Sagan Tosu Japanese J. League Division 1 (1),113160,66,62,66,66,41.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,30,27.73
+Independiente del Valle Ecuadorian Serie A (1),112908,66,70,65,67,19.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,20,25.18
+Kashiwa Reysol Japanese J. League Division 1 (1),101145,66,70,66,66,77.0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,30,26.55
+TSV 1860 München German 3. Bundesliga (3),33,66,67,65,65,1.0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,28,26.09
+Avispa Fukuoka Japanese J. League Division 1 (1),113186,66,66,66,65,27.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,27.36
+Melbourne Victory Australian Hyundai A-League (1),111397,66,70,66,65,2.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,28,27.73
+Viking FK Norwegian Eliteserien (1),300,66,68,65,65,22.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,27,25.55
+Seraing Belgian Jupiler Pro League (1),112695,66,69,66,66,19.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,25.0
+Hokkaido Consadole Sapporo Japanese J. League Division 1 (1),112444,66,64,66,68,52.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,24,26.73
+En Avant de Guingamp French Ligue 2 (2),62,66,67,67,65,47.0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,27,25.82
+IFK Göteborg Swedish Allsvenskan (1),319,66,66,66,67,24.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,24,28.0
+Charlton Athletic English League One (3),89,66,65,66,65,28.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,25.45
+Melbourne City FC Australian Hyundai A-League (1),112224,66,75,65,66,2.0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,25,27.64
+Western United FC Australian Hyundai A-League (1),114023,66,66,67,65,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,29.45
+Sunderland English League One (3),106,66,68,65,66,54.0,0,0,0,0,0,0,0,0,0,0,0,0,9,2,28,23.55
+Shanghai Shenhua FC Chinese Super League (1),110955,66,67,67,65,5.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,28,30.55
+RKC Waalwijk Holland Eredivisie (1),1905,66,66,66,67,27.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,27,26.09
+Real Sociedad B Spanish Segunda División (2),110711,66,66,66,66,15.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,30,21.27
+PEC Zwolle Holland Eredivisie (1),1914,66,66,65,67,53.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,25.45
+SC Cambuur Holland Eredivisie (1),647,66,65,67,66,33.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,27,25.55
+CS Emelec Ecuadorian Serie A (1),110984,66,64,68,66,25.0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,20,27.73
+Wycombe Wanderers English League One (3),1933,66,66,66,67,0.75,0,0,0,0,0,0,0,0,0,0,0,0,4,1,27,28.82
+Crotone Italian Serie B (2),110734,66,65,68,66,45.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,27,23.55
+Unión La Calera Chilian Campeonato Nacional (1),112535,66,67,63,68,16.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,20,27.73
+Jagiellonia Białystok Polish T-Mobile Ekstraklasa (1),110745,66,64,66,67,26.0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,28,27.27
+Al Fayha Saudi Abdul L. Jameel League (1),113057,66,68,66,63,25.0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,29,28.64
+Henan Songshan Longmen FC Chinese Super League (1),111779,66,71,65,63,34.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,28,30.09
+Eintracht Braunschweig German 3. Bundesliga (3),110500,66,65,65,66,0.9,0,0,0,0,0,0,0,0,0,0,0,0,8,1,28,26.09
+Incheon United FC Korean K League 1 (1),110765,66,68,68,65,27.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,29.82
+New York Red Bulls USA Major League Soccer (1),689,66,65,66,65,247.0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,18,22.91
+IFK Norrköping Swedish Allsvenskan (1),702,66,69,63,65,47.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,24,27.09
+Hammarby IF Swedish Allsvenskan (1),708,66,66,67,66,43.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,23,25.82
+Djurgårdens IF Swedish Allsvenskan (1),710,66,65,67,67,44.0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,27,26.55
+SD Amorebieta Spanish Segunda División (2),113356,66,66,66,65,15.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,27,27.82
+FC Seoul Korean K League 1 (1),982,66,67,67,64,32.0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,28,26.91
+Guangzhou FC Chinese Super League (1),111839,66,67,64,69,128.0,0,0,0,0,0,0,0,0,0,0,0,0,10,7,28,28.09
+Ettifaq FC Saudi Abdul L. Jameel League (1),112096,66,67,69,63,34.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,29,27.64
+TSV Egger Glas Hartberg Austrian Football Bundesliga (1),2017,66,66,65,66,25.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,27.45
+FC Sochaux-Montbéliard French Ligue 2 (2),226,66,66,66,66,33.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,25,26.0
+Sepsi OSK Sf. Gheorghe Romanian Liga I (1),113378,66,65,64,64,24.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,28,26.18
+Atlético Nacional Colombian Liga Postobón (1),101100,66,66,68,66,9.0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,20,27.36
+Deportivo Cali Colombian Liga Postobón (1),101102,66,68,65,65,7.0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,21,25.55
+Piast Gliwice Polish T-Mobile Ekstraklasa (1),111086,66,65,66,66,23.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,26,26.45
+Lechia Gdańsk Polish T-Mobile Ekstraklasa (1),111091,66,68,66,66,29.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,26,28.64
+Gangwon FC Korean K League 1 (1),112115,66,66,63,65,48.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,28,28.0
+Śląsk Wrocław Polish T-Mobile Ekstraklasa (1),111092,66,66,66,65,25.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,28,27.18
+CD Mirandés Spanish Segunda División (2),110069,66,67,67,64,15.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,27,23.45
+FC Farul Constanța Romanian Liga I (1),110075,66,65,67,66,27.0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,28,25.45
+Portsmouth English League One (3),1790,66,66,66,66,2.0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,26,25.27
+Al Fateh Saudi Abdul L. Jameel League (1),112390,65,66,68,62,31.0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,29,27.82
+Daegu FC Korean K League 1 (1),2056,65,67,65,63,42.0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,28,27.73
+Shonan Bellmare Japanese J. League Division 1 (1),113161,65,66,65,63,39.0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,30,26.64
+SV Ried Austrian Football Bundesliga (1),780,65,65,64,64,33.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,26,25.73
+Odense Boldklub Danish Superliga (1),272,65,66,64,65,26.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,28,24.64
+Metropolitanos de Caracas FC Venezuelan Primera División (1),112914,65,68,64,64,15.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,23,26.18
+Chamois Niortais Football Club French Ligue 2 (2),1813,65,66,65,64,31.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,26,23.09
+1. FC Kaiserslautern German 3. Bundesliga (3),29,65,65,66,64,0.75,0,0,0,0,0,0,0,0,0,0,0,0,6,1,28,26.45
+FC Voluntari Romanian Liga I (1),113182,65,65,66,65,13.0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,27,28.27
+AS Nancy Lorraine French Ligue 2 (2),1823,65,65,66,65,38.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,30,24.09
+Oita Trinita Japanese J. League Division 1 (1),113183,65,65,64,64,41.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,30,28.09
+Rodez Aveyron Football French Ligue 2 (2),111659,65,66,65,64,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,25,25.0
+Western Sydney Wanderers Australian Hyundai A-League (1),112427,65,68,65,63,2.0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,26,26.82
+Guangzhou City Chinese Super League (1),112429,65,58,68,61,76.0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,28,27.36
+Viktoria Köln German 3. Bundesliga (3),110645,65,65,64,64,0.5,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,25.55
+Rapid București Romanian Liga I (1),310,65,64,64,67,18.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,28,28.09
+Vejle Boldklub Danish Superliga (1),822,65,65,65,64,15.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,24.73
+SC Bastia French Ligue 2 (2),58,65,65,64,64,21.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,27,27.09
+Damac FC Saudi Abdul L. Jameel League (1),113217,65,72,64,65,26.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,29,29.18
+FC Lausanne-Sport Swiss Super League (1),1862,65,65,64,64,42.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,28,25.27
+Wisła Kraków Polish T-Mobile Ekstraklasa (1),1873,65,64,64,65,19.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,27,24.36
+Al Batin Saudi Abdul L. Jameel League (1),112990,65,67,64,62,13.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,26,27.36
+Club Bolívar Liga de Fútbol Profesional Boliviano (1),110968,65,65,63,66,33.0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,20,24.27
+Club The Strongest Liga de Fútbol Profesional Boliviano (1),110969,65,69,63,66,24.0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,23,27.45
+Club Deportivo Jorge Wilstermann Liga de Fútbol Profesional Boliviano (1),110974,65,67,66,63,21.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,21,28.45
+Shrewsbury Town English League One (3),127,65,64,65,65,0.75,0,0,0,0,0,0,0,0,0,0,0,0,5,1,27,26.64
+FC St. Gallen 1879 Swiss Super League (1),898,65,64,64,63,32.0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,28,23.73
+Plymouth Argyle English League One (3),1929,65,64,65,65,13.0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,28,25.91
+La Equidad Colombian Liga Postobón (1),112523,65,63,67,64,2.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,20,27.55
+Vålerenga Fotball Norwegian Eliteserien (1),920,65,66,66,66,27.0,0,0,0,0,0,0,0,0,0,0,0,0,8,2,24,25.55
+Changchun Yatai FC Chinese Super League (1),111769,65,71,64,64,23.0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,28,30.27
+Wuhan FC Chinese Super League (1),112541,65,67,64,63,45.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,29.64
+Club Atlético Palmaflor Liga de Fútbol Profesional Boliviano (1),115358,65,66,65,64,12.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,21,29.0
+Oxford United English League One (3),1951,65,65,66,65,1.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,28,26.27
+FC Botoşani Romanian Liga I (1),110752,65,64,66,66,2.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,28,26.36
+Abha Club Saudi Abdul L. Jameel League (1),113058,65,68,67,64,17.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,30,28.45
+Górnik Zabrze Polish T-Mobile Ekstraklasa (1),420,65,67,64,65,21.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,28,26.18
+USL Dunkerque French Ligue 2 (2),111276,65,65,63,65,27.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,26,27.73
+Macarthur FC Australian Hyundai A-League (1),114604,65,62,66,65,2.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,23,27.09
+Dundee United Scottish Premiership (1),181,65,64,66,65,0.8,0,0,0,0,0,0,0,0,0,0,0,0,5,1,28,27.09
+Chicago Fire Football Club USA Major League Soccer (1),693,65,60,67,64,279.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,21,25.73
+Universidad Técnica de Cajamarca Peruvian Primera División (1),114617,65,64,64,65,25.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,20,25.18
+IF Elfsborg Swedish Allsvenskan (1),700,65,64,66,67,29.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,26,25.27
+WSG Tirol Austrian Football Bundesliga (1),15040,65,65,65,66,29.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,27,25.64
+Pohang Steelers Korean K League 1 (1),1474,65,62,66,60,44.0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,28,27.27
+St. Johnstone FC Scottish Premiership (1),100804,65,63,64,66,0.7,0,0,0,0,0,0,0,0,0,0,0,0,5,1,28,26.73
+SV Waldhof Mannheim 07 German 3. Bundesliga (3),110532,65,66,66,65,0.5,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,25.91
+Vegalta Sendai Japanese J. League Division 1 (1),112836,65,66,64,63,43.0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,29,26.27
+BK Häcken Swedish Allsvenskan (1),711,65,64,65,61,37.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,25,24.82
+FBC Melgar Peruvian Primera División (1),111334,65,66,66,64,15.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,23,25.36
+VfL Osnabrück German 3. Bundesliga (3),487,65,65,65,65,0.52,0,0,0,0,0,0,0,0,0,0,0,0,6,1,27,26.09
+América de Cali Colombian Liga Postobón (1),101099,65,66,65,63,22.0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,20,23.64
+SV Wehen Wiesbaden German 3. Bundesliga (3),492,65,66,65,65,17.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,28,26.18
+Pau FC French Ligue 2 (2),110321,65,65,65,66,19.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,27,26.91
+Montevideo City Torque Uruguayan Primera División (1),113143,65,64,64,66,27.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,20,26.09
+SK Austria Klagenfurt Austrian Football Bundesliga (1),1787,65,65,65,64,26.0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,28,25.18
+FC Nordsjælland Danish Superliga (1),1788,65,63,66,65,28.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,28,21.27
+1. FC Magdeburg German 3. Bundesliga (3),110588,65,65,65,65,0.8,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,24.55
+FSV Zwickau German 3. Bundesliga (3),110592,64,64,63,64,0.5,0,0,0,0,0,0,0,0,0,0,0,0,3,1,24,28.27
+Bolton Wanderers English League One (3),4,64,66,65,63,0.5,0,0,0,0,0,0,0,0,0,0,0,0,8,1,28,25.45
+FC U Craiova 1948 Romanian Liga I (1),115716,64,62,64,64,19.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,25,24.73
+SV Meppen German 3. Bundesliga (3),110597,64,62,64,64,0.52,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,27.18
+Milton Keynes Dons English League One (3),1798,64,65,64,64,15.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,19,23.64
+Gillingham English League One (3),1802,64,65,64,64,1.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,25,26.45
+1. FC Saarbrücken German 3. Bundesliga (3),523,64,65,64,64,12.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,26,26.91
+Club Atlético Nacional Potosí Liga de Fútbol Profesional Boliviano (1),112667,64,63,64,64,15.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20,27.18
+Club Nacional Paraguayan Primera División (1),112671,64,63,63,64,23.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,20,25.45
+Wisła Płock Polish T-Mobile Ekstraklasa (1),1569,64,62,65,64,17.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,27,26.73
+MSV Duisburg German 3. Bundesliga (3),1825,64,65,64,62,0.8,0,0,0,0,0,0,0,0,0,0,0,0,6,1,28,26.64
+Adelaide United Australian Hyundai A-League (1),111393,64,62,66,63,2.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,26,27.27
+Perth Glory Australian Hyundai A-League (1),111399,64,71,62,62,2.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,27,28.55
+Lillestrøm SK Norwegian Eliteserien (1),299,64,59,65,63,15.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,25,25.0
+Yokohama FC Japanese J. League Division 1 (1),113197,64,65,64,63,28.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,26,26.27
+Kristiansund BK Norwegian Eliteserien (1),113459,64,65,64,64,0.75,0,0,0,0,0,0,0,0,0,0,0,0,5,1,25,28.18
+Arsenal de Sarandí Argentina Primera División (1),110394,64,65,65,64,21.0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,25,25.73
+Al Hazem Saudi Abdul L. Jameel League (1),113222,64,67,63,62,16.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,27,27.0
+Sarpsborg 08 FF Norwegian Eliteserien (1),112199,64,62,64,65,22.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,20,27.0
+Sport Huancayo Peruvian Primera División (1),114511,64,64,64,63,22.0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,20,28.18
+Motherwell Scottish Premiership (1),83,64,64,64,64,0.9,0,0,0,0,0,0,0,0,0,0,0,0,5,1,25,25.64
+PGE FKS Stal Mielec Polish T-Mobile Ekstraklasa (1),114004,64,67,63,63,15.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,24,25.27
+Morecambe English League One (3),357,64,63,64,62,0.5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,25,26.18
+Livingston FC Scottish Premiership (1),621,64,66,64,63,0.65,0,0,0,0,0,0,0,0,0,0,0,0,3,1,28,25.18
+FC Würzburger Kickers German 3. Bundesliga (3),110197,64,63,64,64,0.725,0,0,0,0,0,0,0,0,0,0,0,0,6,1,28,25.09
+Club de Deportes Cobresal Chilian Campeonato Nacional (1),110978,64,67,62,62,16.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,20,24.55
+GwangJu FC Korean K League 1 (1),112258,64,61,65,62,16.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,26,26.55
+Fleetwood Town English League One (3),112260,64,61,64,62,0.75,0,0,0,0,0,0,0,0,0,0,0,0,6,1,28,24.27
+Doncaster Rovers English League One (3),142,64,63,64,61,13.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,28,24.09
+Tokushima Vortis Japanese J. League Division 1 (1),112783,64,66,65,63,29.0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,27,27.82
+Club River Plate Asunción Paraguayan Primera División (1),114575,64,63,65,64,16.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20,31.91
+Club Always Ready Liga de Fútbol Profesional Boliviano (1),114577,64,66,64,65,11.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,20,28.91
+Hallescher FC German 3. Bundesliga (3),110482,64,68,64,63,0.64,0,0,0,0,0,0,0,0,0,0,0,0,5,1,28,27.09
+Lincoln City English League One (3),149,64,65,63,64,13.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,28,23.55
+FC Dinamo 1948 Bucureşti Romanian Liga I (1),100757,64,62,64,62,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,28,25.0
+CD Antofagasta Chilian Campeonato Nacional (1),112533,64,68,64,64,23.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,23,24.45
+Wellington Phoenix Australian Hyundai A-League (1),111766,64,67,63,62,2.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,24,24.18
+Campionii FC Arges Romanian Liga I (1),100759,64,63,63,65,15.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,28,27.36
+Beijing Guoan FC Chinese Super League (1),111768,64,65,65,62,10.0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,28,29.09
+Strømsgodset IF Norwegian Eliteserien (1),922,64,62,66,65,25.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,21,24.55
+Cracovia Polish T-Mobile Ekstraklasa (1),110747,64,64,64,65,27.0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,28,24.91
+Zagłębie Lubin Polish T-Mobile Ekstraklasa (1),110749,64,66,65,63,29.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,28,25.27
+AFC UTA Arad Romanian Liga I (1),110750,64,64,64,64,16.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,28,27.91
+12 de Octubre FC Paraguayan Primera División (1),111007,64,66,63,65,19.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,20,29.64
+SC Rheindorf Altach Austrian Football Bundesliga (1),15009,64,66,64,64,29.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,28,23.55
+SønderjyskE Danish Superliga (1),1447,64,63,64,65,2.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,27,24.91
+Burton Albion English League One (3),15015,64,63,64,65,0.75,0,0,0,0,0,0,0,0,0,0,0,0,7,1,28,24.73
+US Quevilly Rouen Métropole French Ligue 2 (2),112552,64,65,64,63,19.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,26,26.36
+Suwon FC Korean K League 1 (1),112558,64,65,66,63,21.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,29.45
+Dundee FC Scottish Premiership (1),180,64,65,63,64,0.75,0,0,0,0,0,0,0,0,0,0,0,0,3,1,23,26.64
+Carlos A. Mannucci Peruvian Primera División (1),114619,64,64,64,63,26.0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,19,28.18
+St. Mirren Scottish Premiership (1),100805,64,65,64,64,0.75,0,0,0,0,0,0,0,0,0,0,0,0,2,1,23,26.36
+FC Flyeralarm Admira Austrian Football Bundesliga (1),111821,64,64,64,65,29.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,25.82
+Türkgücü München German 3. Bundesliga (3),114398,64,64,64,64,1.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,27,27.09
+CD Huachipato Chilian Campeonato Nacional (1),111327,64,58,65,65,37.0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,28,24.55
+AFC Chindia Târgoviște Romanian Liga I (1),113387,64,65,63,64,13.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,28,25.82
+Club Independiente Santa Fe Colombian Liga Postobón (1),101104,64,65,62,62,72.0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,20,24.27
+Radomiak Radom Polish T-Mobile Ekstraklasa (1),111088,64,64,64,65,15.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,25,27.91
+Gaz Metan Mediaş Romanian Liga I (1),112637,64,63,63,64,17.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,26,26.36
+Salford City English League Two (4),113926,63,64,64,63,15.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,28,27.55
+Bradford City English League Two (4),1804,63,64,63,62,13.0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,28,26.45
+Silkeborg IF Danish Superliga (1),270,63,66,63,64,17.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,25.45
+Newcastle Jets Australian Hyundai A-League (1),111398,63,63,62,62,2.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,26,25.73
+Forest Green Rovers English League Two (4),561,63,64,63,63,1.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,23,24.36
+Shamrock Rovers Rep. Ireland Airtricity League (1),306,63,64,62,64,0.75,0,0,0,0,0,0,0,0,0,0,0,0,10,2,21,28.09
+Guayaquil City FC Ecuadorian Serie A (1),113723,63,65,63,62,18.0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,20,24.09
+Club Atlético Rentistas Uruguayan Primera División (1),115535,63,64,62,62,0.5,0,0,0,0,0,0,0,0,0,0,0,0,5,1,20,23.27
+Cerro Largo Fútbol Club Uruguayan Primera División (1),115536,63,64,59,61,16.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,20,25.0
+Borussia Dortmund II German 3. Bundesliga (3),110676,63,63,63,63,21.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,26,22.64
+Deportivo Pasto Colombian Liga Postobón (1),111723,63,62,65,63,25.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,20,28.45
+Ross County FC Scottish Premiership (1),631,63,62,64,63,0.6,0,0,0,0,0,0,0,0,0,0,0,0,2,1,22,24.45
+Crewe Alexandra English League One (3),121,63,63,64,62,0.5,0,0,0,0,0,0,0,0,0,0,0,0,5,1,28,24.64
+Newport County English League Two (4),112254,63,62,62,63,0.75,0,0,0,0,0,0,0,0,0,0,0,0,5,1,27,26.18
+Bruk-Bet Termalica Nieciecza Polish T-Mobile Ekstraklasa (1),112510,63,63,63,62,2.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,27,26.82
+Warta Poznań Polish T-Mobile Ekstraklasa (1),112511,63,63,63,64,15.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,28.18
+AFC Wimbledon English League One (3),112259,63,64,64,62,0.5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,22.91
+Port Vale English League Two (4),1928,63,62,63,63,0.75,0,0,0,0,0,0,0,0,0,0,0,0,4,1,24,26.18
+Northampton Town English League Two (4),1930,63,62,63,64,1.0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,24,25.27
+Sociedad Deportiva Aucas Ecuadorian Serie A (1),110987,63,68,61,62,16.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,22,26.36
+Deportivo Táchira FC Venezuelan Primera División (1),110990,63,61,64,63,19.0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,20,24.73
+Cheltenham Town English League One (3),1936,63,62,64,64,0.5,0,0,0,0,0,0,0,0,0,0,0,0,5,1,24,25.36
+Club Social y Deportivo Macará Ecuadorian Serie A (1),114578,63,63,64,63,15.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,20,25.82
+Stabæk Fotball Norwegian Eliteserien (1),917,63,64,63,62,17.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,23,25.09
+SK Brann Norwegian Eliteserien (1),919,63,64,65,63,37.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,23,24.82
+Cambridge United English League One (3),1944,63,66,63,63,0.5,0,0,0,0,0,0,0,0,0,0,0,0,3,1,26,26.45
+Centro Atlético Fénix Uruguayan Primera División (1),111002,63,56,65,62,16.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,20,26.64
+Viborg FF Danish Superliga (1),1443,63,62,64,63,13.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,25.27
+Sportclub Verl German 3. Bundesliga (3),110501,63,64,63,62,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,23.27
+Club Deportivo Guabirá Liga de Fútbol Profesional Boliviano (1),114600,63,63,64,63,13.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20,24.91
+Bristol Rovers English League Two (4),1962,63,64,63,62,0.75,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,26.09
+Odds BK Norwegian Eliteserien (1),1456,63,62,64,64,24.0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,19,25.36
+Al Tai Saudi Abdul L. Jameel League (1),112572,63,64,64,62,18.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,30,28.45
+Örebro SK Swedish Allsvenskan (1),705,63,65,64,62,2.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,23,27.09
+Tranmere Rovers English League Two (4),15048,63,61,62,64,0.75,0,0,0,0,0,0,0,0,0,0,0,0,2,1,27,25.55
+Deportivo La Guaira FC Venezuelan Primera División (1),112853,63,60,63,64,12.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,20,21.82
+HJK Helsinki Finnish Veikkausliiga (1),100325,63,63,63,64,2.0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,28,28.55
+Górnik Łęczna Polish T-Mobile Ekstraklasa (1),110565,63,66,63,61,15.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,27,28.0
+Accrington Stanley English League One (3),110313,63,66,62,64,0.5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,24.27
+Walsall English League Two (4),1803,62,62,62,61,0.75,0,0,0,0,0,0,0,0,0,0,0,0,7,1,24,24.64
+Östersunds FK Swedish Allsvenskan (1),113173,62,60,61,62,17.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,25,24.73
+Brisbane Roar Australian Hyundai A-League (1),111395,62,62,64,61,2.0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,27,25.82
+Crawley Town English League Two (4),110890,62,62,63,62,0.5,0,0,0,0,0,0,0,0,0,0,0,0,3,1,28,28.45
+IK Sirius Swedish Allsvenskan (1),113458,62,63,62,61,0.6,0,0,0,0,0,0,0,0,0,0,0,0,3,1,25,24.0
+Hebei FC Chinese Super League (1),112978,62,61,61,63,42.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,28,27.09
+TSV Havelse German 3. Bundesliga (3),110678,62,62,62,62,19.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,25.18
+Harrogate Town English League Two (4),112222,62,63,63,61,0.5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,24,26.55
+Stevenage English League Two (4),361,62,63,62,62,0.75,0,0,0,0,0,0,0,0,0,0,0,0,3,1,28,29.0
+FC Viktoria 1889 Berlin German 3. Bundesliga (3),115820,62,62,63,62,0.874,0,0,0,0,0,0,0,0,0,0,0,0,1,1,27,24.0
+Barrow English League Two (4),381,62,61,62,61,0.5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,26,25.36
+Swindon Town English League Two (4),1934,62,62,63,61,0.75,0,0,0,0,0,0,0,0,0,0,0,0,7,1,24,23.55
+Exeter City English League Two (4),143,62,61,62,62,0.75,0,0,0,0,0,0,0,0,0,0,0,0,6,1,28,24.0
+Colchester United English League Two (4),1935,62,64,62,61,0.5,0,0,0,0,0,0,0,0,0,0,0,0,6,1,28,27.82
+AC Mineros de Guayana Venezuelan Primera División (1),110992,62,61,62,63,13.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,20,23.82
+Mansfield Town English League Two (4),1940,62,62,62,62,15.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,28,27.64
+Wrexham AFC English National League (5),1947,62,62,62,62,0.5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,27,25.73
+Kalmar FF Swedish Allsvenskan (1),1439,62,60,65,63,16.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,20,25.27
+Rochdale English League Two (4),1955,62,61,62,62,0.5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,24,23.73
+Leyton Orient English League Two (4),1958,62,62,63,62,0.75,0,0,0,0,0,0,0,0,0,0,0,0,4,1,26,23.82
+Seongnam FC Korean K League 1 (1),981,62,64,62,62,28.0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,28,29.18
+CS Mioveni Romanian Liga I (1),113380,62,62,63,62,13.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,26,28.36
+FC Academica Clinceni Romanian Liga I (1),113391,62,61,62,63,1.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,22,27.55
+Dalian Professional Football Club Chinese Super League (1),112378,62,75,61,61,57.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,28,28.09
+ATK Mohun Bagan FC Indian Super League (1),113146,62,62,63,62,3.0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,24,26.73
+Aragua Fútbol Club Venezuelan Primera División (1),112916,61,63,61,62,14.0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,20,23.91
+Central Coast Mariners Australian Hyundai A-League (1),111396,61,62,60,60,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,22,24.82
+Halmstads BK Swedish Allsvenskan (1),321,61,61,61,62,16.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,21,27.36
+Varbergs BoIS FC Swedish Allsvenskan (1),113743,61,62,61,62,0.65,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,24.27
+Shijiazhuang Ever Bright F.C. Chinese Super League (1),112985,61,62,60,62,23.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,28.73
+SC Freiburg II German 3. Bundesliga (3),110691,61,63,61,60,26.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,21.73
+Oldham Athletic English League Two (4),1920,61,61,61,61,0.75,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,26.27
+Chennaiyin FC Indian Super League (1),113297,61,61,63,60,17.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,28,27.0
+Mumbai City FC Indian Super League (1),113300,61,66,61,61,31.0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,28,27.09
+Scunthorpe United English League Two (4),1949,61,60,60,61,1.0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,27,23.64
+Tromsø IL Norwegian Eliteserien (1),418,61,62,63,61,18.0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,20,25.82
+Academia Puerto Cabello Venezuelan Primera División (1),114611,61,63,62,61,15.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,20,23.36
+FK Haugesund Norwegian Eliteserien (1),1463,61,65,60,62,14.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,21,22.55
+Carlisle United English League Two (4),1480,61,61,62,61,0.5,0,0,0,0,0,0,0,0,0,0,0,0,6,1,28,26.18
+Sutton United English League Two (4),110799,61,60,62,61,13.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,27,26.73
+Sandefjord Fotball Norwegian Eliteserien (1),1757,61,60,61,62,11.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,21,26.0
+Mjøndalen IF Norwegian Eliteserien (1),112420,60,60,61,59,15.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,24,25.0
+Bohemian FC Rep. Ireland Airtricity League (1),305,60,60,60,59,0.53,0,0,0,0,0,0,0,0,0,0,0,0,7,1,26,22.09
+Qingdao FC Chinese Super League (1),112961,60,65,56,60,32.0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,28,31.0
+Dundalk FC Rep. Ireland Airtricity League (1),837,60,62,60,61,0.7,0,0,0,0,0,0,0,0,0,0,0,0,9,2,18,27.18
+FC Goa Indian Super League (1),113298,60,60,61,59,12.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,28,26.27
+Kerala Blasters FC Indian Super League (1),113299,60,68,59,60,21.0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,27,27.09
+Hartlepool United English League Two (4),1941,60,59,60,61,0.65,0,0,0,0,0,0,0,0,0,0,0,0,4,1,22,26.45
+Bengaluru FC Indian Super League (1),113302,60,63,58,58,2.0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,28,27.55
+St. Patrick's Athletic Rep. Ireland Airtricity League (1),423,60,62,63,59,0.525,0,0,0,0,0,0,0,0,0,0,0,0,7,1,23,24.18
+Derry City Rep. Ireland Airtricity League (1),445,60,59,60,59,0.51,0,0,0,0,0,0,0,0,0,0,0,0,6,1,27,23.82
+Mjällby AIF Swedish Allsvenskan (1),112072,60,62,62,60,0.85,0,0,0,0,0,0,0,0,0,0,0,0,2,1,21,25.91
+Degerfors IF Swedish Allsvenskan (1),113892,60,62,61,59,12.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,19,26.09
+SC East Bengal FC Indian Super League (1),111629,59,58,58,59,2.0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,28,28.64
+Sligo Rovers Rep. Ireland Airtricity League (1),563,59,56,59,60,0.515,0,0,0,0,0,0,0,0,0,0,0,0,6,1,21,24.0
+NorthEast United FC Indian Super League (1),113040,59,64,58,57,0.923,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,28.36
+Hyderabad FC Indian Super League (1),113301,59,64,59,59,0.933,0,0,0,0,0,0,0,0,0,0,0,0,2,1,25,27.09
+Tianjin Jinmen Tiger FC Chinese Super League (1),111774,59,60,59,56,23.0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,26,29.0
+Chongqing Liangjiang Athletic Chinese Super League (1),112165,58,60,58,56,35.0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,29.73
+Jamshedpur FC Indian Super League (1),114168,58,63,56,57,11.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,24,26.09
+Drogheda United Rep. Ireland Airtricity League (1),1572,57,58,57,56,0.505,0,0,0,0,0,0,0,0,0,0,0,0,3,1,23,25.27
+Odisha FC Indian Super League (1),113257,57,70,56,57,0.851,0,0,0,0,0,0,0,0,0,0,0,0,2,1,28,25.55
+Waterford FC Rep. Ireland Airtricity League (1),753,57,56,57,57,0.508,0,0,0,0,0,0,0,0,0,0,0,0,4,1,28,25.36
+Finn Harps Rep. Ireland Airtricity League (1),111131,56,50,56,57,0.5,0,0,0,0,0,0,0,0,0,0,0,0,2,1,21,25.82
+Longford Town Rep. Ireland Airtricity League (1),1586,54,55,54,53,0.5,0,0,0,0,0,0,0,0,0,0,0,0,10,1,19,24.18
