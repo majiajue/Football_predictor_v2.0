@@ -1,6 +1,6 @@
 New version of the Machine Learning Football Predictor.
 
-New points:
+Improvements:
 
 - Database on AWS Instance instead of csv files
 - Turning the application into an API
