@@ -148,12 +148,15 @@
     					</div>	
     					
     				
-                        <button type="submit" class="btn btn-default">Go</button>   		  					  						
+                        <button type="submit" class="btn btn-default">Button API TEST</button>   		  					  						
     													
 					</div>		
 				</form>				
 				</div>
 			</main>
+
+<!-- API example1: http://127.0.0.1:5000/api?home_team=Manchester+City+English+Premier+League+%281%29&away_team=FC+Bayern+M%C3%BCnchen+German+1.+Bundesliga+%281%29 -->
+<!-- API example2: http://127.0.0.1:5000/api?home_team=FC+Barcelona+Spain+Primera+Division+%281%29&away_team=Liverpool+English+Premier+League+%281%29 -->		
 			
 <!-- /////////////////////////////////////////// END MAIN BODY ///////////////////////////////////////////////////////////////////////////////  -->				
 
@@ -200,6 +203,9 @@
         var select = document.getElementById("teams_list");
         var select2 = document.getElementById("teams_list2");
         
+        
+        <!-- THIS IS WRONG IT HAS TO PICK UP THE NAMES FROM THE LIST: -->
+        
         var options = ['Liverpool English Premier League (1)',
        'Manchester City English Premier League (1)',
        'Real Madrid CF Spain Primera Division (1)',
@@ -226,9 +232,9 @@
        'Real Sociedad Spain Primera Division (1)',
        'SL Benfica Portuguese Liga ZON SAGRES (1)',
        'West Ham United English Premier League (1)',
-       'Milan Italian Serie A (1)', 'A.S. Roma Italian Serie A (1)',
+       'AC Milan Italian Serie A (1)', 'A.S. Roma Italian Serie A (1)',
        'Wolverhampton Wanderers English Premier League (1)',
-       'Real Betis Spain Primera Division (1)',
+       'Real Betis Balompié Spain Primera Division (1)',
        'Valencia CF Spain Primera Division (1)',
        'Olympique de Marseille French Ligue 1 (1)',
        'FC Porto Portuguese Liga ZON SAGRES (1)',
