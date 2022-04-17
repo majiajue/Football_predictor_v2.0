@@ -3,6 +3,8 @@ from flask import Flask, request, render_template
 import pickle
 import pandas as pd
 from flask import jsonify
+import json
+import urllib.request
 
 
 application = Flask(__name__)
@@ -13,8 +15,9 @@ model_linreg_24 = pickle.load(open('Models/linear_regression_24.pkl', 'rb'))
 
 @application.route('/')
 def home():
-      
+    
    return render_template('index.html')
+
 
 @application.route('/api', methods=['GET'])
 
@@ -78,7 +81,49 @@ def api():
 @application.route('/predict')
 
 def predict():
-    return('hello')
+ 
+    with urllib.request.urlopen("http://127.0.0.1:5000/api?home_team=Manchester+City+English+Premier+League+%281%29&away_team=FC+Bayern+M%C3%BCnchen+German+1.+Bundesliga+%281%29") as url:
+        
+        # TO DO: put all this stuff in an loop:
+        
+        Total_data = json.loads(url.read().decode())
+        
+        
+        value1 = 5
+        Total_fouls_comitted = str(Total_data["Total_fouls_comitted"])
+        Total_red_cards = str(Total_data["Total_red_cards"])
+        Total_yellow_cards = str(Total_data["Total_yellow_cards"])
+        away_goals_final = str(Total_data["away_goals_final"])
+        away_goals_half = str(Total_data["away_goals_half"])
+        away_team_corners = str(Total_data["away_team_corners"])
+        away_team_fouls_comitted = str(Total_data["away_team_fouls_comitted"])
+        away_team_red_cards = str(Total_data["away_team_red_cards"])
+        away_team_shots = str(Total_data["away_team_shots"])
+        away_team_shots_target = str(Total_data["away_team_shots_target"])
+        away_team_yellow_cards = str(Total_data["away_team_yellow_cards"])
+        full_time_corners = str(Total_data["full_time_corners"])
+        full_time_shots = str(Total_data["full_time_shots"])
+        full_time_shots_target = str(Total_data["full_time_shots_target"])
+        home_goals_final = str(Total_data["home_goals_final"])
+        home_goals_half = str(Total_data["home_goals_half"])
+        home_team_corners = str(Total_data["home_team_corners"])
+        home_team_fouls_comitted = str(Total_data["home_team_fouls_comitted"])
+        home_team_red_cards = str(Total_data["home_team_red_cards"])
+        home_team_shots = str(Total_data["home_team_shots"])
+        home_team_shots_target = str(Total_data["home_team_shots_target"])
+        home_team_yellow_cards = str(Total_data["home_team_yellow_cards"])
+        prob_away_win = str(Total_data["prob_away_win"])
+        prob_away_win_half = str(Total_data["prob_away_win_half"])
+        prob_draw_game = str(Total_data["prob_draw_game"])
+        prob_draw_game_half = str(Total_data["prob_draw_game_half"])
+        prob_home_win = str(Total_data["prob_home_win"])
+        prob_home_win_half = str(Total_data["prob_home_win_half"])
+        total_goals_final = str(Total_data["total_goals_final"])
+        total_goals_half = str(Total_data["total_goals_half"])
+
+
+    
+    return render_template('index.html', prob_home_win = prob_home_win, prob_draw_game = prob_draw_game, prob_away_win = prob_away_win)
 
 
 if __name__ == "__main__":
