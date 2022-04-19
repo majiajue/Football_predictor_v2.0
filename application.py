@@ -62,7 +62,7 @@ def api():
     dictionary2 = dict(zip(list2, data2))
    
     data3=[] 
-    list3=['total_goals_final','home_goals_final','away_goals_final','total_goals_half','home_goals_half','away_goals_half',
+    list3=['home_goals_final','away_goals_final','total_goals_final','total_goals_half','home_goals_half','away_goals_half',
           'home_team_shots','away_team_shots','full_time_shots','home_team_shots_target','away_team_shots_target','full_time_shots_target',
           'home_team_corners','away_team_corners','full_time_corners','home_team_fouls_comitted','away_team_fouls_comitted',
           'Total_fouls_comitted','home_team_yellow_cards','away_team_yellow_cards','Total_yellow_cards','home_team_red_cards',
@@ -78,18 +78,27 @@ def api():
     return jsonify(total_dictionary)
     
     
-@application.route('/predict')
+@application.route('/predict', methods=['GET'])
 
 def predict():
- 
-    with urllib.request.urlopen("http://127.0.0.1:5000/api?home_team=Manchester+City+English+Premier+League+%281%29&away_team=FC+Bayern+M%C3%BCnchen+German+1.+Bundesliga+%281%29") as url:
+    
+    home_team_menu = request.args.get('home_team')
+    away_team_menu = request.args.get('away_team')
+    
+    home_team_menu = home_team_menu.replace(" ", "+")
+    away_team_menu = away_team_menu.replace(" ", "+")
+    
+    
+    
+    with urllib.request.urlopen("http://127.0.0.1:5000/api?home_team=" + home_team_menu + "&away_team=" + away_team_menu) as url:
+    #with urllib.request.urlopen("http://127.0.0.1:5000/api?home_team=Manchester+City+English+Premier+League+%281%29&away_team=FC+Bayern+M%C3%BCnchen+German+1.+Bundesliga+%281%29") as url:
         
         # TO DO: put all this stuff in an loop:
         
         Total_data = json.loads(url.read().decode())
         
         
-        value1 = 5
+        variable = str("http://127.0.0.1:5000/api?home_team=" + str(home_team_menu) + "&away_team=" + str(away_team_menu))
         Total_fouls_comitted = str(Total_data["Total_fouls_comitted"])
         Total_red_cards = str(Total_data["Total_red_cards"])
         Total_yellow_cards = str(Total_data["Total_yellow_cards"])
@@ -122,10 +131,13 @@ def predict():
         total_goals_half = str(Total_data["total_goals_half"])
 
 
+    return render_template('index.html', prob_home_win = prob_home_win, prob_draw_game = prob_draw_game, prob_away_win = prob_away_win,
+    total_goals_final=total_goals_final, home_goals_final = home_goals_final, away_goals_final = away_goals_final)
+
+#    return (str(home_team_menu))
+
+
     
-    return render_template('index.html', prob_home_win = prob_home_win, prob_draw_game = prob_draw_game, prob_away_win = prob_away_win)
-
-
 if __name__ == "__main__":
     application.run(debug=True)
     
