@@ -2,13 +2,14 @@
 			// Column chart
 			var options = {
 				chart: {
+    				toolbar:{show: false},
 					height: 350,
 					type: "bar",
-					toolbar: false
+					stacked: false,
 				},
 				plotOptions: {
 					bar: {
-						horizontal: true,
+						horizontal: false,
 						endingShape: "rounded",
 						columnWidth: "75%",
 					},
@@ -48,7 +49,7 @@
 				tooltip: {
 					y: {
 						formatter: function(val) {
-							return val + " goals"
+							return val
 						}
 					}
 				}

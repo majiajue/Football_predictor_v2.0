@@ -10,8 +10,8 @@ document.addEventListener("DOMContentLoaded", function() {
 			dataLabels: {
 			enabled: true
 			},
-			series: [prob_home_win, prob_draw_game, prob_away_win],
-			labels: ["Home win", "Draw game", "Away win"],
+			series: [prob_draw_game, prob_home_win, prob_away_win],
+			labels: ["Draw game", "Home win", "Away win"],
 			}
 	var chart = new ApexCharts(
 		document.querySelector("#apexcharts-pie"),

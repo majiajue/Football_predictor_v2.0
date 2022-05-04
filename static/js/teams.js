@@ -2,6 +2,8 @@
         var select2 = document.getElementById("teams_list2");
         
         
+        
+        
         <!-- THIS IS WRONG IT HAS TO PICK UP THE NAMES FROM THE LIST: -->
         
         var options = ['Liverpool English Premier League (1)',
@@ -672,6 +674,8 @@
        'Cork City Rep. Ireland Airtricity League (1)',
        'Finn Harps Rep. Ireland Airtricity League (1)',
        'Waterford FC Rep. Ireland Airtricity League (1)'];
+       
+        
     
         for(var i = 0; i < options.length; i++) {
         var opt = options[i];
@@ -680,6 +684,8 @@
         el.value = opt;
         select.appendChild(el);
         }
+        
+       
         
         for(var i = 0; i < options.length; i++) {
         var opt = options[i];

@@ -16,7 +16,19 @@ model_linreg_24 = pickle.load(open('Models/linear_regression_24.pkl', 'rb'))
 @application.route('/')
 def home():
     
-   return render_template('index.html')
+    home_team_menu_original = 'Choose home team'
+    away_team_menu_original = 'Choose away team'
+    prob_home_win=0
+    prob_away_win=0
+    prob_draw_game=0
+    total_goals_final = 0
+    home_goals_final = 0
+    away_goals_final = 0
+    
+    return render_template('index.html', home_team_menu_original = home_team_menu_original, away_team_menu_original = away_team_menu_original,
+                           prob_home_win = prob_home_win, prob_draw_game = prob_draw_game, prob_away_win = prob_away_win,
+                           total_goals_final = total_goals_final, home_goals_final = home_goals_final, away_goals_final = away_goals_final
+                           )
 
 
 @application.route('/api', methods=['GET'])
@@ -82,11 +94,11 @@ def api():
 
 def predict():
     
-    home_team_menu = request.args.get('home_team')
-    away_team_menu = request.args.get('away_team')
+    home_team_menu_original = request.args.get('home_team')
+    away_team_menu_original = request.args.get('away_team')
     
-    home_team_menu = home_team_menu.replace(" ", "+")
-    away_team_menu = away_team_menu.replace(" ", "+")
+    home_team_menu = home_team_menu_original.replace(" ", "+")
+    away_team_menu = away_team_menu_original.replace(" ", "+")
     
     
     
@@ -130,11 +142,11 @@ def predict():
         total_goals_final = str(Total_data["total_goals_final"])
         total_goals_half = str(Total_data["total_goals_half"])
 
+    print('home_team_menu = ', home_team_menu)
+    return render_template('index.html', home_team_menu_original = home_team_menu_original, away_team_menu_original = away_team_menu_original,
+    prob_home_win = prob_home_win, prob_draw_game = prob_draw_game, prob_away_win = prob_away_win,
+    total_goals_final = total_goals_final, home_goals_final = home_goals_final, away_goals_final = away_goals_final)
 
-    return render_template('index.html', prob_home_win = prob_home_win, prob_draw_game = prob_draw_game, prob_away_win = prob_away_win,
-    total_goals_final=total_goals_final, home_goals_final = home_goals_final, away_goals_final = away_goals_final)
-
-#    return (str(home_team_menu))
 
 
     
